@@ -11,6 +11,6 @@
   <img src="https://discord.c99.nl/widget/theme-3/816619386306560021.png"/>
 </p>
 <p align="center">
-Currently learning JavaScript
+learning Python
 <p align="center">
     <a href="https://discord.gg/Nv4KjcjHaq">Discord Server</a>
