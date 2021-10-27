@@ -3,7 +3,7 @@
 <img src="https://cdn.discordapp.com/attachments/901783638574759968/902752916866211870/f083b165d66590ed99bc04580e7d20ff.gif">
 </p>
 <p align="center">
-    7teen
+    TheNiceDayX
 <p align="center">  
 <img src="https://komarev.com/ghpvc/?username=Nice2Basic&color=red">
 </p>
